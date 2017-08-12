@@ -22,5 +22,9 @@ p{
 h2{
   font-weight: 300;
   font-size: 42px;
-  color: white; 
+  color: white;
+}
+.footer{
+  text-align: right;
+  color: grey;
 }
